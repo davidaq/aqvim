@@ -11,3 +11,7 @@ set smartcase
 
 set scrolloff=3
 set wildmode=longest,list
+
+set runtimepath^=~/.vim/ctrlp.vim
+set runtimepath^=~/.vim/vim-easymotion
+set runtimepath^=~/.vim/vim-surround

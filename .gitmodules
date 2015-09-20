@@ -1,0 +1,9 @@
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround
